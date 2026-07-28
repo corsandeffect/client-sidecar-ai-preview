@@ -1,4 +1,4 @@
-# client-sidecar-ai-preview
+# Client-Sidecar AI: Preview
 Client-Sidecar AI is a 100% client-sided, lightweight, highly optimized multi-LLM provider (OpenAI GPT, Anthropic Claude, Google Gemini) native browser extension. Designed with Vanilla JS and strictly Manifest V3 compliant for security-conscious users. It features a pure Bring-Your-Own-Key (BYOK) model, with $0/month hosting overhead infrastructure and absolute local data privacy. 
 
 This project is structured as a production-ready, white-label product, giving developers and creators a highly modular foundation to immediately rebrand, customize, and launch their own private AI browser assistant.
